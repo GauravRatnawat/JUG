@@ -1,0 +1,6 @@
+{
+  "name": "Jug",
+  "tagline": "Java UML Generator",
+  "body": "This project is aimed at developing the Class Diagram. The UML Generator is a desktop application that can be used to generate a class diagram. The class diagram is a static diagram. It represents the static view of an application. Class diagram is not only used for visualizing, describing and documenting different aspects of a system but also for constructing executable code of the software application. The class diagram describes the attributes and operations of a class and also the constraints imposed on the system. The class diagrams are widely used in the modelling of object oriented systems because they are the only UML diagrams which can be mapped directly with object oriented languages. The class diagram shows a collection of classes, interfaces, associations, collaborations and constraints. It is also known as a structural diagram. This application will provide a class diagram to the user to know the number of classes and methods in a particular program.  By examining the existing system on the internet, we found that there are such functions available at this moment, but to improve our skills and knowledge level we try to include it in our system.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
